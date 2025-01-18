@@ -4,22 +4,22 @@ I'm a passionate software developer working on various projects, including web d
 
 ## About Me 🧑‍💻
 
-- 🌍 **Location**: Arch Linux User
+- 🌍 **Location**: India
 - 🎓 **Currently**: College student, diving deep into code and cybersecurity, and finding ways to automate everything! ⚡
-- 🔧 **Technologies**: Python, Flask, HTML, CSS, JavaScript, Selenium, CustomTkinter, Arch Linux
+- 🔧 **Technologies**: Python, Flask, JavaScript, React, Node.js, C/C++.
 - 🧠 **Learning**: Cybersecurity, system configuration, automation
 - 💬 **Reach me**: [LinkedIn](https://www.linkedin.com/in/aayushkumar26)
 
 ## Projects 🚀
 
-### 🛒 [Marketplace Web Application](https://github.com/yourusername/marketplace)
+### 🛒 [Marketplace Web Application](https://github.com/lyr-ast/sya-marketplace)
 A fully functional marketplace website built with Flask, allowing users to view, buy, and rent products. This includes a product listing page, a product detail page, and user authentication.
 
 - **Technologies Used**: Flask, HTML, CSS, JavaScript, SQLite
 - **Features**: Product categories, rent and sell functionalities, user authentication
 - **Future Plans**: Add search and filtering, implement payment gateway
 
-### 🖥️ [School Voting System - Elecshion](https://github.com/yourusername/elecshion)
+### 🖥️ [School Voting System - Elecshion](https://github.com/lyr-ast/E-voting-Software)
 A simple yet powerful school voting system that allows users to vote for candidates and view results dynamically.
 
 - **Technologies Used**: Python, CustomTkinter, CSV Import
@@ -32,6 +32,7 @@ A simple yet powerful school voting system that allows users to vote for candida
 - 🤖 Automating tasks using Selenium and web scraping to save time.
 - 🔐 Learning about security vulnerabilities and cybersecurity practices.
 - 🚀 Experimenting with Linux configurations.
+- 🧠 Contributing to open source projects.
 
 ## My Skills 🛠️
 
@@ -44,4 +45,4 @@ A simple yet powerful school voting system that allows users to vote for candida
 
 ## Reach Out 📬
 
-If you're interested in collaborating or want to chat about tech, feel free to reach out. I'm always up for discussing new projects or challenges! 🌟
+If you're passionate about open source, interested in collaborating, or want to chat about tech, feel free to reach out. I’m always excited to explore new projects, contribute to impactful tools, and tackle exciting challenges together! 🌟
