@@ -8,7 +8,7 @@ I'm a passionate software developer working on various projects, including web d
 - 🎓 **Currently**: College student, diving deep into code and cybersecurity, and finding ways to automate everything! ⚡
 - 🔧 **Technologies**: Python, Flask, JavaScript, React, Node.js, C/C++.
 - 🧠 **Learning**: Cybersecurity, system configuration, automation
-- 💬 **Reach me**: [LinkedIn](https://www.linkedin.com/in/aayushkumar26)
+- 💬 **Reach me**: [LinkedIn](https://www.linkedin.com/in/aayushkdev)
 
 ## Projects 🚀
 
@@ -19,7 +19,7 @@ A fully functional marketplace website built with Flask, allowing users to view,
 - **Features**: Product categories, rent and sell functionalities, user authentication
 - **Future Plans**: Add search and filtering, implement payment gateway
 
-### 🖥️ [School Voting System - Elecshion](https://github.com/lyr-ast/E-voting-Software)
+### 🖥️ [School Voting System](https://github.com/lyr-ast/E-voting-Software)
 A simple yet powerful school voting system that allows users to vote for candidates and view results dynamically.
 
 - **Technologies Used**: Python, CustomTkinter, CSV Import
