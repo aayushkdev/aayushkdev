@@ -6,7 +6,7 @@ I'm a passionate software developer working on various projects, including web d
 
 - 🌍 **Location**: India
 - 🎓 **Currently**: College student, diving deep into code and cybersecurity, and finding ways to automate everything! ⚡
-- 🔧 **Technologies**: Python, Flask, JavaScript, React, Node.js, C/C++.
+- 🔧 **Technologies**: Python, Flask, Django, JavaScript, React, Node.js, C/C++.
 - 🧠 **Learning**: Cybersecurity, system configuration, automation
 - 💬 **Reach me**: [LinkedIn](https://www.linkedin.com/in/aayushkdev)
 
