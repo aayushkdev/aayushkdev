@@ -36,7 +36,7 @@ A simple yet powerful school voting system that allows users to vote for candida
 
 ## My Skills 🛠️
 
-- **Programming**: Python, Flask, JavaScript, React, Node.js, C/C++
+- **Programming**: Python, Flask, Django, JavaScript, React, Node.js, C/C++
 - **Web Development**: HTML, CSS, JavaScript
 - **Automation**: Selenium, Web Scraping
 - **Linux**: I use arch btw
