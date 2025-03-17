@@ -10,22 +10,6 @@ I'm a passionate software developer working on various projects, including web d
 - 🧠 **Learning**: Cybersecurity, system configuration, automation
 - 💬 **Reach me**: [LinkedIn](https://www.linkedin.com/in/aayushkdev)
 
-## Projects 🚀
-
-### 🛒 [Marketplace Web Application](https://github.com/lyr-ast/sya-marketplace)
-A fully functional marketplace website built with Flask, allowing users to view, buy, and rent products. This includes a product listing page, a product detail page, and user authentication.
-
-- **Technologies Used**: Flask, HTML, CSS, JavaScript, SQLite
-- **Features**: Product categories, rent and sell functionalities, user authentication
-- **Future Plans**: Add search and filtering, implement payment gateway
-
-### 🖥️ [School Voting System](https://github.com/lyr-ast/E-voting-Software)
-A simple yet powerful school voting system that allows users to vote for candidates and view results dynamically.
-
-- **Technologies Used**: Python, CustomTkinter, CSV Import
-- **Features**: Voting interface, candidate management, graphical vote representation
-- **Future Plans**: Implement secure voting, add multiple election types
-
 ## What I Love to Do ❤️
 
 - 🧑‍💻 Building web applications that solve real-world problems.
@@ -39,6 +23,7 @@ A simple yet powerful school voting system that allows users to vote for candida
 - **Programming**: Python, Flask, Django, JavaScript, React, Node.js, C/C++
 - **Web Development**: HTML, CSS, JavaScript
 - **Automation**: Selenium, Web Scraping
+- **Embedded Systems**: ESP32, Raspberry Pi, Arduino
 - **Linux**: I use arch btw
 - **Database**: SQLite, MySQL
 - **Version Control**: Git, GitHub
