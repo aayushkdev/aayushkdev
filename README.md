@@ -1,3 +1,3 @@
 ```txt
-Sup, I am Aayush and I love coding
+Sup, I’m Aayush and I like coding.
 ```
