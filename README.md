@@ -1,3 +1,3 @@
-```txt
-Sup, I’m Aayush and I like coding.
-```
+mostly building stuff.
+
+<b>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ☕</b>
